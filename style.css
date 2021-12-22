@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+header{
+    position: absolute;
+    width: 1366px;
+    height: 602px;
+    left: 0px;
+    top: 0px;
+    background: #129799;
+}
+.menu1{
+display: flex;
+
+}
+.a{
+position: absolute;
+width: 118px;
+height: 35px;
+left: 450px;
+top: 24px;
+font-weight: 500;
+font-size: 30px;
+line-height: 30px;
+color: #F7F7F7;
+
+}
+.b{
+position: absolute;
+width: 78px;
+height: 35px;
+left: 692px;
+top: 24px;
+font-size: 30px;
+line-height: 30px;
+color: #F7F7F7;
+
+}
+.c{
+position: absolute;
+width: 106px;
+height: 35px;
+left: 871px;
+top: 24px;
+font-size: 30px;
+line-height: 30px;
+color: #F7F7F7;
+
+}
+.mão{
+position: absolute;
+width: 32px;
+height: 32px;
+left: 517px;
+top: 43px;
+}
+.texto{
+position: absolute;
+width: 644px;
+height: 75px;
+left: 41px;
+top: 269px;
+font-size: 64px;
+line-height: 75px;
+color: #F7F7F7;
+}
+.imagemlife{
+position: absolute;
+width: 640px;
+height: 320px;
+left: 685px;
+top: 140px;
+}
+.lista2{
+display: flex;
+color: #F7F7F7
+}
+.d{
+position: absolute;
+width: 185px;
+height: 35px;
+left: 281px;
+top: 537px;
+font-size: 30px;
+line-height: 35px;
+
+}
+.e{
+    position: absolute;
+    width: 208px;
+    height: 35px;
+    left: 566px;
+    top: 537px;
+    font-size: 30px;
+    line-height: 35px;
+}
+.f{
+    position: absolute;
+    width: 211px;
+    height: 35px;
+    left: 874px;
+    top: 537px;
+    font-size: 30px;
+    line-height: 35px;
+
+
+}
+main{
+position: absolute;
+width: 1366px;
+height: 1450px;
+left: 0px;
+top: 602px;
+background: #FFA185
+}
+.aquarela{
+width: 1220px;
+height: 190px;
+left: 45px;
+top: 62px;
+font-size: 48px;
+line-height: 70px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+}
+.informações{
+    font-size: 48px;
+    line-height: 56px;
+    width: 1220px;
+height: 190px;
+left: 45px;
+top: 62px;
+}
+.dance{
+position: absolute;
+width: 640px;
+height: 340.99px;
+left: 31px;
+top: 505px;
+}
+.music{
+position: absolute;
+width: 640px;
+height: 340.99px;
+left: 700px;
+top: 505px;
+}
+.fita{
+position: absolute;
+width: 640px;
+height: 340.99px;
+left: 30px;
+top: 870px;
+}
+.girl{
+position: absolute;
+width: 640px;
+height: 340.99px;
+left: 699px;
+top: 870px;
+}
+.veja{
+position: absolute;
+width: 133px;
+height: 35px;
+left: 618px;
+top: 1300px;
+}
+footer{
+position: absolute;
+background: #129799;
+display: flex;
+width: 1366px;
+height: 160px;
+left: 0px;
+top: 2000px;
+}
+.g{
+position: absolute;
+width: 185px;
+height: 35px;
+left: 700px;
+top: 57px;
+font-size: 30px;
+line-height: 35px;
+color: #FFFFFF;
+}
+.h{
+position: absolute;
+width: 185px;
+height: 55px;
+left: 950px;
+top: 57px;
+font-size: 30px;
+line-height: 35px;
+color: #FFFFFF;
+}
+.i{
+position: absolute;
+width: 185px;
+height: 55px;
+left: 1200px;
+top: 57px;
+font-size: 30px;
+line-height: 35px;
+color: #FFFFFF;
+}
+.instagram{
+    position: absolute;
+    Width: 65px;
+    Height: 55px;
+    Top: 40px;
+    Left: 94px;
+    font-size: 25px;
+    line-height: 25px;
+
+}
+.facebook{
+    position: absolute;
+    Width: 65px;
+    Height: 55px;
+    Top: 40px;
+    Left: 180px;
+   
+}
+.linkdin{
+    position: absolute;
+    Width: 65px;
+    Height: 55px;
+    Top: 40px;
+    Left: 266px;
+}
+.pinterest{
+    position: absolute;
+    Width: 65px;
+    Height: 55px;
+    Top: 40px;
+    Left: 352px;
+}
